@@ -11,9 +11,9 @@
 		<key>appURL</key>
 		<string>https://miscoder001.github.io/ios/陸軍多元管理.ipa</string>
 		<key>displayImageURL</key>
-		<string>https://miscoder001.github.io/ios/images/image.57x57.png</string>
+		<string>https://miscoder001.github.io/ios/images/image.57x57</string>
 		<key>fullSizeImageURL</key>
-		<string>https://miscoder001.github.io/ios/images/image.512x512.png</string>
+		<string>https://miscoder001.github.io/ios/inages/image.512x512</string>
 	</dict>
 	<key>method</key>
 	<string>release-testing</string>
