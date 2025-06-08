@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>陸軍多元管理.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>FEF086FFDE6895853E8966260D556A31E7DE3D2E</string>
+				<key>dateExpires</key>
+				<string>2028/6/7</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>T4S6RJ69WD.tw.gov.mnd.app.aesmtw.gov.mnd</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>T4S6RJ69WD</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>陸軍多元管理.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>8ebb72b6-5667-40bb-b6fa-ac7526690e60</string>
+				<key>dateExpires</key>
+				<string>2026/6/8</string>
+				<key>name</key>
+				<string>iOS Team Inhouse Provisioning Profile: tw.gov.mnd.app.aesmtw.gov.mnd</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>T4S6RJ69WD</string>
+				<key>name</key>
+				<string>Army Command Headquarters,MND</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
