@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://miscoder001.github.io/iosapp/陸軍多元管理.ipa</string>
+					<string>https://miscoder001.github.io/iosapp/aesm.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -23,7 +23,7 @@
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://miscoder001.github.io/ios/images/image.512x512.png</string>
+					<string>https://miscoder001.github.io/iosapp/images/image.512x512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -47,7 +47,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://miscoder001.github.io/iosapp/%E9%99%B8%E8%BB%8D%E5%A4%9A%E5%85%83%E7%AE%A1%E7%90%86-405AF812-539A-4F06-A216-863A40D79E65.ipa</string>
+					<string>https://miscoder001.github.io/iosapp/aesm.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
